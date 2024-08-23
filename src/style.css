@@ -1,0 +1,23 @@
+.hidden {
+    display: none;
+  }
+
+  .cat-info img {
+    max-width: 400px;
+    height: auto;
+  }
+
+  .cat-info p {
+    margin: 5px 0;
+  }
+
+  .loader {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+
+  .error {  color: red;
+    font-size: 18px;
+    margin-top: 20px;
+}
+  
