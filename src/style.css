@@ -9,6 +9,7 @@
 
   .cat-info p {
     margin: 5px 0;
+
   }
 
   .loader {
@@ -20,4 +21,8 @@
     font-size: 18px;
     margin-top: 20px;
 }
-  
+.cat-info{
+  display: flex;
+  gap: 10px;
+  margin: 10px;
+}
